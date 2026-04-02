@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkFileId": "",
-  "releaseNotes": "테스트 버전",
+  "releaseNotes": "백업파일 그대로 FTP업로드 기능 추가 - 동기종 장비 교체 가능",
   "mandatory": false
 }
