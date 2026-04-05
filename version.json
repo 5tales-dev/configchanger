@@ -2,6 +2,6 @@
   "versionCode": 9,
   "versionName": "1.6",
   "apkFileId": "",
-  "releaseNotes": "백업파일 그대로 FTP업로드 기능 추가 - 동기종 장비 교체 가능",
+  "releaseNotes": "유플러스 인증 추가",
   "mandatory": false
 }
