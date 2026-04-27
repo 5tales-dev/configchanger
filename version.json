@@ -1,7 +1,7 @@
 {
   "versionCode": 9,
-  "versionName": "1.6",
+  "versionName": "1.7",
   "apkFileId": "",
-  "releaseNotes": "유플러스 인증 추가",
+  "releaseNotes": "CONFIG 수정",
   "mandatory": false
 }
