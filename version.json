@@ -1,7 +1,7 @@
 {
   "versionCode": 11,
-  "versionName": "1.7",
+  "versionName": "1.8",
   "apkFileId": "",
-  "releaseNotes": "CONFIG 수정",
+  "releaseNotes": "광랜모드 적용, 업링크 속도제어 수정",
   "mandatory": false
 }
