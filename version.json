@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.94",
+  "versionCode": 18,
+  "versionName": "1.95",
   "apkFileId": "",
   "releaseNotes": "시리얼 연결 방식 및 초기화 / 펌웨어 업데이트 기능 추가",
   "mandatory": false
